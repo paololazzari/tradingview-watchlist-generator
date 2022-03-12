@@ -1,0 +1,10 @@
+*.txt
+.vscode/*
+Include/*
+Lib/*
+Scripts/*
+pyvenv.cfg
+src/tradingview_watchlist_generator/__pycache__/*
+src/tradingview_watchlist_generator/markets/__pycache__/*
+src/tradingview_watchlist_generator.egg-info/*
+src/watchlists/*
